@@ -1,3 +1,10 @@
+'''
+Author: Khandoker Tanjim Ahammad
+Date: 06.20.25
+Purpose: Read and analyisis .irb file that produce by the Janaoptik vario cam.
+parameter: csv file with wather data and .irb image
+
+'''
 import os, sys
 import numpy as np
 import pandas as pd
