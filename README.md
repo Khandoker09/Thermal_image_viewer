@@ -1,6 +1,6 @@
 ## IRB Thermal Image Viewer
 
-An interactive desktop tool for visualizing radiometric `.irb` files (Jenoptik VarioCAM) alongside local weather station data, built with Python, Tkinter and Matplotlib.
+An interactive desktop tool for visualizing radiometric `.irb` files [Jenoptik VarioCAM](https://scitech.com.au/uploads/pdf/cameras/jenoptik/VarioCAM.pdf) alongside local weather station data, built with Python, Tkinter and Matplotlib.
 
 ### Features
 
